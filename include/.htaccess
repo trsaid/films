@@ -1,0 +1,4 @@
+AuthUserFile /htdoc/.htpasswd
+AuthName "Accès protégé"
+AuthType Basic
+Require valid-user
